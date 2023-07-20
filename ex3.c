@@ -1,4 +1,4 @@
-import <stdh.io>
+#include <stdio.h>
 
 int main(int argc, char const *argv[])
 {
