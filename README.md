@@ -1,2 +1,2 @@
 # safe
-    
+    perl, typescript e go...
